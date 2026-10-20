@@ -39,7 +39,7 @@
   | Metric | Value |
   |--------|-------|
   | Hosted Services MRR | ~$23K+ |
-  | Cloud Users | 4,000+ |
+  | Cloud Users | ~4,000+ |
   | GitHub Sponsors / month | ~$9,000 |
   | Open Collective / month | ~$1,100 |
 
